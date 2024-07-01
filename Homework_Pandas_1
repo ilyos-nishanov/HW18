@@ -1,0 +1,13 @@
+1. Create a DataFrame with the following data:
+
+    Names: ["John", "Jack", "Roman", "Tony"]
+    Ages: [25, 30, 22, 28]
+    Professions: ["Developer", "Designer", "Engineer", "Teacher"]
+   
+Add a "Location" column to the above DataFrame and include locations for each person.
+
+Filter the DataFrame to show only those who are older than 25.
+
+Calculate the mean, maximum, and minimum values for the ages column.
+
+In folder, there are 4-5 CSV files. Load these files into SQLite db.
